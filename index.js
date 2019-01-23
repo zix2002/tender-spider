@@ -103,9 +103,5 @@ function sendMailWithData( data ) {
   });
 }
 
-// fetchPageAndSendMail();
-
-require('dotenv').config();
-
-console.log('test', process.env.EMAIL_USER);
+fetchPageAndSendMail();
 
