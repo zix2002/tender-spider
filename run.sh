@@ -1,4 +1,4 @@
 #!/usr/bin/node
 
-node /home/tender-spider/index.js
+/usr/bin/node /home/tender-spider/index.js
 
