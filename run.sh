@@ -1,4 +1,4 @@
-#!/usr/bin/node
+#!/usr/bin/env bash
 
-/usr/bin/node /home/tender-spider/index.js
+node /home/tender-spider/index.js
 
